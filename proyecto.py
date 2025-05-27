@@ -1,7 +1,7 @@
 import re
 import flet as ft
 
-ofensas = ["tonto", "idiota", "mula", "puñetas"]
+ofensas = ["tonto", "idiota", "mula", "puñetas", "puto"]
 
 def analisis_lexico(entrada):
     return entrada.strip().split()
